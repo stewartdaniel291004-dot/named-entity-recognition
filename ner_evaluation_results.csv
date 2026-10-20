@@ -1,0 +1,5 @@
+Entity Type,Precision,Recall,F1-score
+PER,0.833,0.597,0.696
+ORG,0.312,0.255,0.281
+LOC,0.758,0.719,0.738
+MISC,0.397,0.385,0.391
